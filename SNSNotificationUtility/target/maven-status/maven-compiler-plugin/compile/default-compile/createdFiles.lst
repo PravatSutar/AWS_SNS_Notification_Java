@@ -1,0 +1,5 @@
+com\accenture\fs\analytics\sns\notification\AmazonSNSInvoker.class
+com\accenture\fs\analytics\sns\common\Constants.class
+com\accenture\fs\analytics\sns\beans\Transaction.class
+com\accenture\fs\analytics\sns\common\CryptoUtils.class
+com\accenture\fs\analytics\sns\dbfactory\DBConnector.class
